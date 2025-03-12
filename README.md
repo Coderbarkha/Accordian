@@ -10,4 +10,6 @@
 
 
 -It is used to style the whole accordian.
+
+
 -It is created using different css properties like position ,checked component ,transition 
